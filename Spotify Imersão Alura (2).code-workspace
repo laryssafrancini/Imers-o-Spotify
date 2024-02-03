@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "Spotify Imersão Alura",
+			"path": "."
+		},
+		{
+			"path": "../../Documents/GitHub/spotify-imersao/src/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "assets"
+	}
+}
